@@ -888,3 +888,6 @@ a.white {
 	text-decoration: none;
 	margin-bottom: 0%;
 }
+.navbar-default{
+	border:none;
+ }
