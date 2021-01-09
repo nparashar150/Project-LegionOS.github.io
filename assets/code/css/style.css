@@ -401,7 +401,7 @@ a.white {
 	background-position: center;
 	background-repeat: repeat;
 	background-size: cover;
-	background-size: 35%;}
+	background-size: 40%;}
 .img-seq .img-container {
 	position: relative;
 }
@@ -471,7 +471,7 @@ a.white {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-size: 35%;
+	background-size: 40%;
 }
 .chrty h2 {
 	margin-bottom: 1.125rem;
@@ -491,7 +491,7 @@ a.white {
 	background-position: center;
 	background-repeat: repeat;
 	background-size: cover;
-	background-size: 35%;
+	background-size: 40%;
 
 }
 
@@ -512,7 +512,7 @@ a.white {
 	background-position: center;
 	background-repeat: repeat;
 	background-size: cover;
-	background-size: 35%;
+	background-size: 40%;
 }
 
 .form h2 {
@@ -540,7 +540,7 @@ a.white {
 	background-position: center;
 	background-repeat: repeat;
 	background-size: cover;
-	background-size: 35%;}
+	background-size: 40%;}
 
 .footer .footer-col {
 	margin-bottom: 2.5rem;
@@ -910,4 +910,4 @@ a.white {
 	margin-bottom: 0%;
 }
 .navbar-default{
-	border:none;
+	border:none;}
