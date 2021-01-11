@@ -397,8 +397,11 @@ a.white {
 .img-seq {
 	padding-top: 6.875rem;
 	padding-bottom: 6.375rem;
-	background-color: #000000;
-}
+	background-image: url("../css/bg.jpg");
+	background-position: center;
+	background-repeat: repeat;
+	background-size: cover;
+	background-size: 40%;}
 .img-seq .img-container {
 	position: relative;
 }
@@ -464,6 +467,11 @@ a.white {
 .chrty {
 	padding-top: 6.375rem;
 	padding-bottom: 4.875rem;
+	background-image: url("../css/bg.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-size: 40%;
 }
 .chrty h2 {
 	margin-bottom: 1.125rem;
@@ -479,7 +487,12 @@ a.white {
 .ssass {
 	padding-top: 3.5rem;
 	padding-bottom: 7.25rem;
-	background-color: #000000;
+	background-image: url("../css/bg.jpg");
+	background-position: center;
+	background-repeat: repeat;
+	background-size: cover;
+	background-size: 40%;
+
 }
 
 .ssass .text-container {
@@ -495,6 +508,11 @@ a.white {
 }
 .form {
 	padding-top: 1.25rem;
+	background-image: url("../css/bg.jpg");
+	background-position: center;
+	background-repeat: repeat;
+	background-size: cover;
+	background-size: 40%;
 }
 
 .form h2 {
@@ -518,8 +536,11 @@ a.white {
 }
 .footer {
 	padding-top: 3rem;
-	background-color: #000000;
-}
+	background-image: url("../css/bg.jpg");
+	background-position: center;
+	background-repeat: repeat;
+	background-size: cover;
+	background-size: 40%;}
 
 .footer .footer-col {
 	margin-bottom: 2.5rem;
@@ -889,5 +910,4 @@ a.white {
 	margin-bottom: 0%;
 }
 .navbar-default{
-	border:none;
- }
+	border:none;}
